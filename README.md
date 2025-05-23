@@ -188,7 +188,7 @@ SELECT (CASE
 FROM retail_sales
 GROUP by shift;
 ```
-The evening shift has the highest number of transactions made across two years of 1062.
+The evening shift has the highest number of transactions made across two years with 1062 transactions.
 
 ## Findings
 
